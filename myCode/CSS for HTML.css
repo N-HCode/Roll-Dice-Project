@@ -1,0 +1,6 @@
+.dice{
+    display: none;
+}
+#result{
+    display: inline-block;
+}
